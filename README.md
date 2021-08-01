@@ -4,9 +4,6 @@
 - Estudioso por natureza 👨‍🎓
 - Nerd por escolha própria 🤓
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-
-
 <div>
   <a href="https://github.com/wemersonsantos">
   <img height="180rem" width="435rem" src="https://github-readme-stats.vercel.app/api?username=wemersonsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
